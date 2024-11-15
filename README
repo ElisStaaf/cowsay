@@ -38,11 +38,12 @@ Installation
 ------------
 To install, clone the repo:
 
-   # git
-   git clone https://github.com/ElisStaaf/cowsay ~/cowsay
+    #> git clone https://github.com/ElisStaaf/cowsay ~/cowsay
 
-   # gh
-   gh repo clone ElisStaaf/cowsay ~/cowsay
+    OR
 
-   # Add to path (optional)
-   "export PATH=\"\$PATH:$HOME/cowsay\"" >> "~/your/shell/rc"
+    #>gh repo clone ElisStaaf/cowsay ~/cowsay
+
+    OPTIONALLY ADD TO PATH
+   
+    #> echo "export PATH=\"\$PATH:$HOME/cowsay\"" >> "~/your/shell/rc"
