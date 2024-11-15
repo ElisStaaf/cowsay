@@ -12,6 +12,23 @@ E.g if I were to run "cowsay.pl" with the flag "Hello World!", the program world
                     ||----w |
                     ||     ||
 
+It also happens to include other cows with the "-f" flag:
+
+    #> ./cowsay.pl -f tux "Hello World!"
+
+     ______________
+    < Hello World! >
+     --------------
+       \
+        \
+            .--.
+           |o_o |
+           |:_/ |
+          //   \ \
+         (|     | )
+        /'\_   _/`\
+        \___)=(___/
+
 Requirements
 ------------
 * https://learn.perl.org/installing/
