@@ -42,7 +42,7 @@ To install, clone the repo:
 
     OR
 
-    #>gh repo clone ElisStaaf/cowsay ~/cowsay
+    #> gh repo clone ElisStaaf/cowsay ~/cowsay
 
     OPTIONALLY ADD TO PATH
    
