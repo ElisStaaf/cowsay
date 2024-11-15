@@ -6,7 +6,7 @@ use File::Basename;
 use Getopt::Std;
 use Cwd;
 
-$version = "3.03";
+$version = "1.0.0";
 $progname = basename($0);
 $eyes = "oo";
 $tongue = "  ";
