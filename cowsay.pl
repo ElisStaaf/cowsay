@@ -11,7 +11,7 @@ $version = "3.03";
 $progname = basename($0);
 $eyes = "oo";
 $tongue = "  ";
-$cowpath = dirname(__FILE__)."/cows";
+$cowpath = "./".dirname(__FILE__)."/cows";
 @message = ();
 $thoughts = "";
 
