@@ -1,6 +1,5 @@
 #!/usr/bin/perl
 
-##
 use Text::Tabs qw(expand);
 use Text::Wrap qw(wrap fill $columns);
 use File::Basename;
