@@ -29,6 +29,25 @@ It also happens to include other cows with the "-f" flag:
         /'\_   _/`\
         \___)=(___/
 
+Use "cowsay -l" to list all cowfiles:
+
+    #> ./cowsay.pl -l
+    Cow files in ./cows:
+    daemon default dragon koala meow moose sheep stegosaurus tux vader
+
+Use "cowsay -e" to change eye graphic:
+
+    #> ./cowsay.pl -e "O" "I am a cyclops!"
+
+     _________________
+    < I am a cyclops! >
+     -----------------
+            \   ^__^
+             \  (O)\_______
+                (__)\       )\/\
+                    ||----w |
+                    ||     ||
+
 Requirements
 ------------
 * https://learn.perl.org/installing/
@@ -46,4 +65,4 @@ To install, clone the repo:
 
     OPTIONALLY ADD TO PATH
    
-    #> echo "export PATH=\"\$PATH:$HOME/cowsay\"" >> "~/your/shell/rc"
+    #> echo "export PATH=\"\$PATH:$HOME/cowsay\"" >> "your/shell/rc"
