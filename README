@@ -37,13 +37,13 @@ Use "cowsay -l" to list all cowfiles:
 
 Use "cowsay -e" to change eye graphic:
 
-    #> ./cowsay.pl -e "O" "I am a cyclops!"
+    #> ./cowsay.pl -e "O " "I am a cyclops!"
 
      _________________
     < I am a cyclops! >
      -----------------
             \   ^__^
-             \  (O)\_______
+             \  (O )\_______
                 (__)\       )\/\
                     ||----w |
                     ||     ||
